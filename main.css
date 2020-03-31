@@ -1,0 +1,47 @@
+#canvasContainer {
+  display: none;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1em;
+  height: 560px;
+  width: 360px;
+}
+
+#formContainer {
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn-start {
+  box-shadow: 0 0 8px -2px #d15353;
+  background: linear-gradient(180deg,#ff5d48 5%,#b01c1c);
+  /* background-color: #53d1af; */
+  border-radius: 7px;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 17px 45px;
+  text-decoration: none;
+  text-shadow: 0 0 7px #874343;
+}
+
+.credits {
+  color: grey;
+}
+
+.credits a{
+  color: grey;
+  text-decoration: underline;
+}
+
+.runner {
+  height: 1em;
+  margin-top: -0.2em;
+}
+
+h1 {
+  margin-bottom: 60px;
+}
